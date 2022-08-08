@@ -1,0 +1,2 @@
+from github , I am writing: hello how are you doing 
+they commit and push on their computer
